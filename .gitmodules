@@ -1,0 +1,3 @@
+[submodule "AIC22-Client-Java"]
+	path = AIC22-Client-Java
+	url = git@github.com:SharifAIChallenge/AIC22-Client-Java.git
